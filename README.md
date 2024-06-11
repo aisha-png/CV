@@ -24,21 +24,21 @@ I am eager to explore the intersection of technology and business, seeking to sh
 _Your job title_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
-**Fine Tutors**  <03/19 – 07/23>
+**Fine Tutors**  (03/19 – 07/23)  
 _Tutor + Math Supervisor_
 
 - Promoted to Supervisor role, overseeing teaching quality.
 - Collaborated with parents, students, tutors, and peers to ensure optimal teaching standards.
 - Utilised Excel for lesson planning and maintained student/tutor records, enhancing organisational efficiency. 
 
-**Dubai Garments** <12/15 – 01/22> 
+**Dubai Garments** (12/15 – 01/22)  
 _Manager_
 
 - Managed financial operations, including income, expenses, and net earnings, utilising Excel spreadsheets to generate weekly and monthly financial reports.
 - Demonstrated exceptional customer service skills while handling customer inquiries and managing retail operations.
 - Produced graphical representations of financial data, aiding in strategic decision-making processes.
 
-**The Keyholding Company** <11/16 – 02/17>
+**The Keyholding Company** (11/16 – 02/17) 
 _Call Centre Operative_
 
 - Operated as part of a six-person team on day and night shifts, promptly responding to alarm calls and dispatching guards to client properties.
