@@ -20,10 +20,7 @@ I am eager to explore the intersection of technology and business, seeking to sh
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 **Fine Tutors**  (03/19 – 07/23)  
 _Tutor + Math Supervisor_
 
@@ -38,7 +35,7 @@ _Manager_
 - Demonstrated exceptional customer service skills while handling customer inquiries and managing retail operations.
 - Produced graphical representations of financial data, aiding in strategic decision-making processes.
 
-**The Keyholding Company** (11/16 – 02/17) 
+**The Keyholding Company** (11/16 – 02/17)  
 _Call Centre Operative_
 
 - Operated as part of a six-person team on day and night shifts, promptly responding to alarm calls and dispatching guards to client properties.
@@ -70,20 +67,26 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (10/23 – 03/24)
 
-#### Your University / College (start_date to end_date)
+- Full Stack Development (Flask/React)
+- Improved my team working skills using Agile methodologies across multiple team projects, and building on previously gained skills such as TDD as well as gaining new ones including CI, automated testing, containerisation and applying microservices principles.
+- Improved my execution of version control management using Git and GitHub, for smooth teamwork.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+
+#### Bright Network Teaching Academy (04/22 – 07/22) 
+
+- Full Stack Development (Spring Boot/React)
+- Applied Agile methodologies across diverse team projects, showcasing adeptness in Test-Driven Development (TDD) and cultivating teamwork through pair-programming collaborations.
+- Exhibited a robust grasp of Object-Oriented Programming (OOP) principles, proficient program design skills, adept debugging abilities, and comprehensive knowledge spanning web applications and databases.
+- Executed seamless version control management using Git and GitHub, facilitating smooth teamwork within project teams.
+
+
+
+#### Brunel University London (10/17 – 08/20) 
+
+- Biomedical Science
+- 2:1
 
 #### Any other qualifications
 
