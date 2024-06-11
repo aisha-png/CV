@@ -1,11 +1,14 @@
-## Your Name
+## Aisha Mohamed
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a results-driven tech enthusiast with a passion for innovation and continuous learning. Self-disciplined and proactive, I excel at taking the lead on projects when needed. My experience includes successfully designing, planning, and building full-stack applications across a diverse range of programming languages, enhancing both my technical expertise and versatility.
+
+I am eager to explore the intersection of technology and business, seeking to sharpen my business acumen within the tech industry. Collaboration is at the heart of my work ethic, and I thrive in team environments where we strive towards common goals. My commitment to ongoing skill development ensures I am always growing and evolving as a developer.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **Finance Management** | **(IN PRORESS)** A web app that allows a user to add all their bank accounts and manage their finances  | Next.js, TypeScript, Appwrite, Plaid, Dwolla, React Hook Form, Zod, TailwindCSS, Chart.js, ShadCN             |
 | **Bloom**            | A full-stack plants webapp where users can make requests asking for help for their plants and they can also offer help to other users | React, Vitest, Flask, Python, Pytest, PostgreSQL, CI, React-Bootstrap, Socket.io|
 | **Acebook** | Emulating a realword scenario, I contributed on a full-stack legacy code-base for Facebook clone webapp | React, Vitest, TailwindCSS, MongoDB, Mongoose, Express, jest, Cloudinary          |
 | **Acebook (Mobile)** | Using a pre-built API, we built a mobile frontend for a clone of Facebook app | Swift, Xcode               |
